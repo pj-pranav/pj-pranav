@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Pranav Joshi
-- 👀 I’m interested in exploring the new technologies in computer science and electronics world!
-- 🌱 I’m currently learning Elecrtonics and computer engineering at VTU belagavi.
-- 📫 you can reach me  through joshipranav884@gmail.com
-- 😄 Pronouns:Pranav
+👋 Hi, I'm Pranav Joshi!
+Welcome to my GitHub profile! I'm currently pursuing Electronics and Computer Engineering at VTU, where I'm honing my skills in both hardware and software development. I have a passion for learning and exploring new technologies, especially in the fields of electronics and programming.
 
-<!---
-pj-pranav/pj-pranav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Technologies & Tools
+- Languages:C, C++, Python
+- Tools: Git, VSCode
+- 
+🌱 What I'm Learning
+- Currently diving into embedded systems and microcontroller programming.
+- Exploring responsive web design and cyber security.
+
+
+💬 Ask Me About
+- Electronics circuit design
+- C and Python programming
+
+📫 How to Reach Me
+- **Email:** joshipranav884@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/pranav-joshi
+
+⚡ Fun Fact
+I enjoy tinkering with electronics in my free time and love creating DIY projects that combine hardware and software.
+
