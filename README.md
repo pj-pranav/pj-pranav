@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm currently pursuing Electronics and Computer En
 
 📫 How to Reach Me
 - **Email:** joshipranav884@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/pranav-joshi
+- **LinkedIn:** https://www.linkedin.com/in/pranav-joshi-485a64289/
 
 ⚡ Fun Fact
 I enjoy tinkering with electronics in my free time and love creating DIY projects that combine hardware and software.
