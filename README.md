@@ -2,17 +2,17 @@
 Welcome to my GitHub profile! I'm currently pursuing Electronics and Computer Engineering at VTU, where I'm honing my skills in both hardware and software development. I have a passion for learning and exploring new technologies, especially in the fields of electronics and programming.
 
 🛠️ Technologies & Tools
-- Languages:C, C++, Python
+- Languages:C, C++, Python,Java
 - Tools: Git, VSCode
 - 
 🌱 What I'm Learning
-- Currently diving into embedded systems and microcontroller programming.
-- Exploring responsive web design and cyber security.
+- Currently diving into Digital system design in verilog and leetcode DSA.
+- Exploring responsive web design ,Amezon Web Services(AWS) and cyber security.
 
 
 💬 Ask Me About
-- Electronics circuit design
-- C and Python programming
+- Electronics circuit design,IoT,Analog and digital electronics.
+- C ,C++ and Python programming
 
 📫 How to Reach Me
 - **Email:** joshipranav884@gmail.com
