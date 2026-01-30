@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm currently pursuing Electronics and Computer En
 
 🛠️ Technologies & Tools
 - Languages:C, C++, Python,Java
-- Tools: Git, VSCode
+- Tools: Git, VSCode,arduino,ESP32
 - 
 🌱 What I'm Learning
 - Currently diving into Digital system design in verilog and leetcode DSA.
