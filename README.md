@@ -72,8 +72,8 @@ I’m passionate about learning new technologies, experimenting with electronics
 
 ### ☁️ Cloud & IT Foundations
 ![AWS](https://img.shields.io/badge/AWS-Academy-orange?style=for-the-badge&logo=amazonaws)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-Fundamentals-232F3E?style=for-the-badge)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-Fundamentals-FF9900?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-232F3E?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-FF9900?style=for-the-badge)
 ![Data Center](https://img.shields.io/badge/Data%20Center-Technician%20Basics-708090?style=for-the-badge)
 
 ---
