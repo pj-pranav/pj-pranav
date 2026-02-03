@@ -34,6 +34,7 @@ I'm passionate about learning new technologies, experimenting with electronics, 
 <br clear="right"/>
 
 ---
+<div>
 <br clear="center"/>
 
 ## 🎯 Technologies & Tools
