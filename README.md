@@ -34,19 +34,56 @@ I’m passionate about learning new technologies, experimenting with electronics
 
 ## 🎯 Technologies & Tools
 
-### 🧑‍💻 Programming Languages
-- **C**
-- **C++**
-- **Python**
-- **Java**
+<div align="center">
 
-### 🛠️ Tools & Platforms
-- **Git**
-- **VS Code**
-- **Arduino**
-- **ESP32**
+### 🧑‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
+
+### ⚙️ Electronics & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-2F4F4F?style=for-the-badge)
+![Digital Electronics](https://img.shields.io/badge/Digital%20Electronics-4B0082?style=for-the-badge)
+![Analog Electronics](https://img.shields.io/badge/Analog%20Electronics-8B0000?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-Learning-orange?style=for-the-badge)
+
+---
+
+### 🌐 IoT & Networking
+![IoT](https://img.shields.io/badge/IoT-006400?style=for-the-badge)
+![Sensor Interfacing](https://img.shields.io/badge/Sensor%20Interfacing-2E8B57?style=for-the-badge)
+![WiFi](https://img.shields.io/badge/WiFi-Communication-1E90FF?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-Beginner-yellow?style=for-the-badge)
+
+---
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & IT Foundations
+![AWS](https://img.shields.io/badge/AWS-Academy-orange?style=for-the-badge&logo=amazonaws)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-Fundamentals-232F3E?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-Fundamentals-FF9900?style=for-the-badge)
+![Data Center](https://img.shields.io/badge/Data%20Center-Technician%20Basics-708090?style=for-the-badge)
+
+---
+
+### 🧠 Problem Solving
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-6A5ACD?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode)
+
+</div>
+
 
 ## 🌱 What I'm Currently Learning
 
