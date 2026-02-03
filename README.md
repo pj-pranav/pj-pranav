@@ -19,22 +19,32 @@
 
 ---
 
-## 💫 About Me
+## 🪐 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-👋 Hi, I'm **Pranav Joshi**!  
-I'm currently pursuing **Electronics and Computer Engineering at VTU**, where I’m developing strong foundations in **both hardware and software development**.
+👋 **Hi, I'm Pranav Joshi!**
 
-I’m passionate about learning new technologies, experimenting with electronics, and building projects that combine **embedded systems, programming, and IoT**.
+I'm currently pursuing **Electronics and Computer Engineering at VTU**, where I'm building strong foundations in **both hardware and software development**.
+
+I'm passionate about learning new technologies, experimenting with electronics, and building projects that combine **embedded systems, programming, and IoT**.
 
 ⚡ *I learn best by building, breaking, and improving real systems.*
+
+<br clear="right"/>
 
 ---
 
 ## 🎯 Technologies & Tools
 
-<div align="center">
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
 
 ### 🧑‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
