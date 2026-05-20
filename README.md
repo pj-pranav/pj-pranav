@@ -94,7 +94,7 @@ I'm passionate about learning new technologies, experimenting with electronics, 
 - 🧠 **Data Structures & Algorithms (LeetCode)**
 - 🌐 **Responsive Web Design**
 - ☁️ **Amazon Web Services (AWS)**
-- 🔐 **Cybersecurity Basics**
+
 
 ---
 
